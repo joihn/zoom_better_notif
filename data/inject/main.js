@@ -23,7 +23,7 @@
       if (port.dataset.enabled === 'false') {
         return port.dataset.hidden === 'true' ? 'hidden' : 'visible';
       }
-      return 'visible';
+      return 'hidden';
     }
   });
   Object.defineProperty(document, 'webkitVisibilityState', {
