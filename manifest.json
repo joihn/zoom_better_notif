@@ -3,8 +3,8 @@
 
   "manifest_version": 3,
   "version": "0.3.2",
-  "name": "zoom suckless 2",
-  "description": "Pretend that all browser windows are active by spoofing the visibility state event and more!",
+  "name": "better zoom notif",
+  "description": "better zoom notif",
   "permissions": [
     "storage",
     "scripting"
@@ -13,7 +13,7 @@
     "*://*/*"
   ],
   "action": {},
-  "homepage_url": "https://webextension.org/listing/always-active.html",
+  "homepage_url": "",
   "icons": {
     "16": "/data/icons/16.png",
     "19": "/data/icons/19.png",
