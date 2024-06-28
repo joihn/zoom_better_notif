@@ -10,10 +10,10 @@
     "scripting"
   ],
   "host_permissions": [
-    "*://*/*"
+        "https://*.zoom.us/*"
   ],
   "action": {},
-  "homepage_url": "",
+  "homepage_url": "https://www.google.com/",
   "icons": {
     "16": "/data/icons/16.png",
     "19": "/data/icons/19.png",
